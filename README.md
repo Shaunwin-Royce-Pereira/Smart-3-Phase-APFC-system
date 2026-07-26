@@ -5,16 +5,16 @@ Intelligent three-phase Automatic Power Factor Correction (APFC) controller deve
 This project presents an intelligent three-phase Automatic Power Factor Correction (APFC) controller developed in MATLAB/Simulink for industrial power systems. The controller automatically selects capacitor banks to compensate reactive power while minimizing switching operations and monitoring capacitor health.
 
 # Features
-✅ Automatic capacitor bank switching
-✅ Three-phase APFC
-✅ MATLAB Function based controller
-✅ Priority-based capacitor selection
-✅ Anti-chattering hysteresis
-✅ Capacitor health monitoring
-✅ Contactor health monitoring
-✅ Fault isolation
-✅ Fault-tolerant operation
-✅ Modular controller architecture
+✅ Automatic capacitor bank switching\
+✅ Three-phase APFC\
+✅ MATLAB Function based controller\
+✅ Priority-based capacitor selection\
+✅ Anti-chattering hysteresis\
+✅ Capacitor health monitoring\
+✅ Contactor health monitoring\
+✅ Fault isolation\
+✅ Fault-tolerant operation\
+✅ Modular controller architecture\
 
 # Technologies Used
 MATLAB
