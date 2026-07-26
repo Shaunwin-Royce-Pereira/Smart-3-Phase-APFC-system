@@ -53,6 +53,6 @@ Reactive Power Compensation
 * Machine Learning based capacitor ageing prediction
 
 # Author
-SHAUNWIN ROYCE PEREIRA
-NITK Surathkal
+SHAUNWIN ROYCE PEREIRA\
+NITK Surathkal\
 [LinkedIn](https://www.linkedin.com/in/shaunwin-royce)
